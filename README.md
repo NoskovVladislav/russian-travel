@@ -22,5 +22,5 @@ _________________________________________
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/71IsZc449RTOLAkrpsiJ0G/Russia-desktop-and-mobile?node-id=62863%3A634)
 
-* [Ссылка на проект](__)
+* [Ссылка на проект](https://noskovvladislav.github.io/russian-travel/)
 
